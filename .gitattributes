@@ -89,15 +89,15 @@
             
             </div>
             <div class= "col-md-4 footer footer2">
-                <a href="default.asp" target="_blank">Apply for Apartments</a><br>
-                <a href="default.asp" target="_blank">FAQ</a><br>
-                <a href="default.asp" target="_blank">E-form</a><br>
-                <a href="default.asp" target="_blank">Privacy Policy</a> 
+                <a href="#" target="_blank">Apply for Apartments</a><br>
+                <a href="#" target="_blank">FAQ</a><br>
+                <a href="#" target="_blank">E-form</a><br>
+                <a href="#" target="_blank">Privacy Policy</a> 
             </div>
             <div class="col-md-4 footer footer3">
-                <a href="default.asp" target="_blank">Report a problem</a><br>
-                <a href="default.asp" target="_blank">Terminate your Lease</a><br>
-                <a href="default.asp" target="_blank">Contact Information</a><br>
+                <a href="#" target="_blank">Report a problem</a><br>
+                <a href="#" target="_blank">Terminate your Lease</a><br>
+                <a href="#" target="_blank">Contact Information</a><br>
                 <a href="#"><i class="fa fa-fw fa-envelope"></i><img class="second-image" src ="whatsapp.png"></a>
                 <a href="#"><i class="fa fa-fw fa-envelope"></i><img class="second-image" src ="facebook.png"></a>
                 <a href="#"><i class="fa fa-fw fa-envelope"></i><img class="second-image" src ="youtube.png"></a>
